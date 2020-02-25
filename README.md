@@ -64,6 +64,10 @@
 
 * [十八、 神奇的ScrollPhysics与Simulation](Flutter-18.md)
 
+* [十九、 Android 和 iOS 打包提交审核指南](Flutter-19.md)
+
+* [二十、 Android PlatformView 和键盘问题](Flutter-20.md)
+
 * [番外](FWREADME.md)
   
   * [Flutter 跨平台框架应用实战-2019极光开发者大会](Flutter-jg-meet.md)
