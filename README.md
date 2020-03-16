@@ -76,6 +76,9 @@
   * [Flutter 开发实战与前景展望 - RTC Dev Meetup](Flutter-rtc-meetup.md)
   * [Flutter Interact 的 Flutter 1.12 大进化和回顾](Flutter-Interact-2019.md)
   * [Flutter 升级 1.12 适配教程](Flutter-update-1.12.md)
+  * [Spuernova 是如何提升 Flutter 的生产力](Flutter-Supernova.md)
+  * [Flutter 中的图文混排与原理解析](Flutter-TWHP.md)
+  * [Flutter 实现视频全屏播放逻辑及解析](Flutter-Player-Full.md)
   
   
 
