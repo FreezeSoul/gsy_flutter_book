@@ -44,6 +44,8 @@
 
 * [二十、 Android PlatformView 和键盘问题](Flutter-20.md)
 
+* [二十一、 Flutter 画面渲染的全面解析](Flutter-21.md)
+
 * [番外]()
   * [Flutter 跨平台框架应用实战-2019极光开发者大会](Flutter-jg-meet.md)
   * [Flutter 面试知识点集锦](Flutter-msjj.md)
