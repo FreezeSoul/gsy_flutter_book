@@ -19,6 +19,10 @@
 
 - ### [开源 Flutter 多案例学习型项目](https://github.com/CarGuo/GSYFlutterDemo)
 
+| 公众号  | 掘金                                                         | 知乎                                        | CSDN                                      | 简书                                           |
+| ------- | ------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------- | ---------------------------------------------- |
+| GSYTech | [点我](https://juejin.im/user/582aca2ba22b9d006b59ae68/posts) | [点我](https://www.zhihu.com/people/carguo) | [点我](https://blog.csdn.net/ZuoYueLiang) | [点我](https://www.jianshu.com/u/6e613846e1ea) |
+
 
 ![公众号](http://img.cdn.guoshuyu.cn/WeChat-Code)
 
