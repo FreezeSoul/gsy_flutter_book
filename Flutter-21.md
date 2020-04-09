@@ -240,7 +240,7 @@ void beginFrame(Duration timeStamp) {
 - 位移类（`OffsetLayer`/`TransformLayer`）;
 - 透明类（`OpacityLayer`）
 - 裁剪类（`ClipRectLayer`/`ClipRRectLayer`/`ClipPathLayer`);
-- 辅助类 (`PhysicalModelLayer`)
+- 阴影类 (`PhysicalModelLayer`)
 
 为什么这些 `Layer` 需要是 `ContainerLayer` ？**因为这些 `Layer` 都是一些像素合成的操作，其本身是不具备“描绘”控件的能力，就如前面的蓝色小方块例子一样，如果要呈现画面一般需要和 `PictureLayer` 结合**。
 
@@ -486,7 +486,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-可以看到这里多了一个 `PhysicalModelLayer` 和 `PictureLayer` ，`PhysicalModelLayer` 是用于调试时显示调试蒙层的，比如打开蒙层后可以看到各种颜色的标注，如果不需要可以设置 `debugDisablePhysicalShapeLayers`，而之后的 `PictureLayer` 也是用于绘制。
+可以看到这里多了一个 `PhysicalModelLayer` 和 `PictureLayer` ，`PhysicalModelLayer` 是用于设置阴影等效果的，比如关闭 `debugDisablePhysicalShapeLayers` 后 `AppBar` 的阴影会消失，而之后的 `PictureLayer` 也是用于绘制。
 
 ```
 I/flutter (32494): TransformLayer#ac14b
