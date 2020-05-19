@@ -56,6 +56,7 @@
   * [Spuernova 是如何提升 Flutter 的生产力](Flutter-Supernova.md)
   * [Flutter 中的图文混排与原理解析](Flutter-TWHP.md)
   * [Flutter 实现视频全屏播放逻辑及解析](Flutter-Player-Full.md)
+  * [Flutter 上的一个 Bug 带你了解键盘与路由的另类知识点](Flutter-keyboard-rs.md)
   
   
 
